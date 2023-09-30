@@ -1,4 +1,4 @@
-# Job Application Tracker
+# Job Application Tracker (#hacktoberfest2023)
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
