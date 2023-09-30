@@ -1,5 +1,7 @@
 # Job Application Tracker (#hacktoberfest2023)
 
+doesn't used database yet just focusing on UI first
+
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 Welcome to the Job Application Tracker open-source project! We're thrilled that you're considering contributing to our platform.
